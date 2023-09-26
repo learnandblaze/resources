@@ -21,6 +21,6 @@ generateHeadingToc: true
 
 8. Scalability and Resilience: Design applications and infrastructure to be scalable and resilient. This ensures that systems can handle varying workloads and recover gracefully from failures.
 
-9. ulture of Learning: Foster a culture of continuous learning and improvement. Encourage teams to experiment, learn from failures, and continuously adapt and evolve their practices.
+9. culture of Learning: Foster a culture of continuous learning and improvement. Encourage teams to experiment, learn from failures, and continuously adapt and evolve their practices.
 
 These core principles help organizations achieve faster and more reliable software delivery while maintaining high-quality standards and collaboration between development and operations teams.
