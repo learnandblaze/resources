@@ -1,4 +1,9 @@
-DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to improve the software development and delivery/deployment process. Here are nine core engineering principles in DevOps.
+---
+generateHeadingToc: true
+--- 
+ 
+ ## DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to improve the software development and delivery/deployment process. 
+ ## Here are nine core engineering principles in DevOps.
 
 1. Collaboration: Foster a culture of collaboration and communication between development and operations teams. Encourage them to work together throughout the entire software development lifecycle.
 
