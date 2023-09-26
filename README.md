@@ -1,6 +1,7 @@
 ---
-generateHeadingToc: true
---- 
+title: 'GITHUB Basics Systems'
+description: A comprehensive  guide to all basic functions and configurations related to publishing scholarly articles
+---
  
  ## DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to improve the software development and delivery/deployment process. 
  ## Here are nine core engineering principles in DevOps.
